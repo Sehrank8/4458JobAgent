@@ -2,6 +2,8 @@
 
 The Job Agent Service is a lightweight AI-based microservice within the **SE4458 Job Search Platform**. It interacts with users via natural language and interprets queries like “Find me frontend jobs in Istanbul.” It then uses internal APIs to fetch and respond with relevant job listings.
 
+[THE IMPORTANT DETAILS ARE HERE](https://github.com/Sehrank8/4458ApiGateway)
+
 ---
 
 ## 🧠 Overview
