@@ -3,7 +3,7 @@ from agent import extract_query_from_llm, search_jobs
 
 app = FastAPI()
 
-@app.post("/agent")
+@app.post("/api/v1/agent")
 async def agent(request: Request):
     data = await request.json()
     user_input = data.get("message", "")
