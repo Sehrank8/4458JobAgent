@@ -127,8 +127,3 @@ Would you like to apply to one of these?"
 }
 ```
 
----
-
-## 📄 License
-
-Part of SE4458 Final Project 2025 Spring Term.
